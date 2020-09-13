@@ -1,0 +1,9 @@
+.header {
+    color: blue;
+}
+a:link {
+    text-decoration: none;
+}
+table, th, td, tr {
+    border: 1px solid black;
+}
