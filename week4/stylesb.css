@@ -1,0 +1,96 @@
+.nav-bar {
+    font-size: 30px;
+    color:black;
+    position: fixed;
+    width: 50%;
+    margin: 10px;
+    text-align: center;
+}
+.intro{
+    text-align: center;
+    font-size: 50px;
+    padding-top: 5px;
+
+}
+ul {
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    list-style-type: none;
+}
+li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+  }
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding-top: 50px;
+}
+.title {
+    text-align: center;
+    font-size: 50px;
+    position: relative;
+    display: inline-block;
+    width: 600px;
+    height: 200px;
+    padding-top: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 450px;
+    text-align: center;
+    left: 0px;
+    right: 100px;
+    top: 20px;
+    bottom: 0px;
+}
+header {
+    font-size: 50px;
+    text-align: center;
+}
+#description {
+    font-size: 15px;
+    padding-top: 10px;
+}
+.facts {
+    list-style-type: none;
+    margin: 0;
+    font-size: 18px;
+    position: relative;
+    display: inline-block;
+    width: 600px;
+    height: 200px;
+    padding-top: 10px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 450px;
+    text-align: center;
+    left: 0px;
+    right: 50px;
+    top: -100px;
+    bottom: 0px;
+}
+.welcome {
+    font-size: 18px;
+    position: relative;
+    display: inline-block;
+    width: 600px;
+    height: 200px;
+    padding-top: 100px;
+    padding-bottom: 0px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    margin-right: 0px;
+    margin-left: 450px;
+    text-align: center;
+    left: 0px;
+    right: 100px;
+    top: 0px;
+    bottom: 100px;
+}
